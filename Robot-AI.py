@@ -13,7 +13,7 @@ def random_door_position(grid_size_X, grid_size_Y):
     else:
         return random.randint(0, grid_size_X - 1), grid_size_Y - 1
 
-# Function to print the grid in a readable format with separators
+# Function to print the grid in a readable format with separators 
 def print_grid(grid):
     for row in grid:
         print(' | '.join(row))
