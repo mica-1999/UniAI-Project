@@ -1,0 +1,10 @@
+Robot 
+
+Rewards:
+- Gets a reward of 5 for reaching the key
+- Gets a reward of 10 for reaching the door
+
+Penalties:
+- Gets a penalty of 10 for hitting an obstacle
+- Gets a penalty of 5 for reaching a dead end
+- Gets a penalty of 1 for each step taken away from the key or door
